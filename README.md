@@ -58,8 +58,8 @@
 ![WhatsApp Image 2024-12-04 at 11 59 29_e95f5ea8](https://github.com/user-attachments/assets/3c51826c-de2c-4d32-be23-313a2afc92ef)
 
 
-### Name : THARUN B
-### Register Number:24002876
+### Name : Darshan V
+### Register Number:24005331
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
